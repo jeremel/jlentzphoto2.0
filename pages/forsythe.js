@@ -1,10 +1,10 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
-import forsythe1 from '../public/Forsythe/20180929-dsc04812.jpg'
-import forsythe2 from '../public/Forsythe/20180929-dsc04813.jpg'
-import forsythe3 from '../public/Forsythe/20180929-dsc04888.jpg'
-import forsythe4 from '../public/Forsythe/20180929-dsc04889.jpg'
+import forsythe1 from '../public/Forsythe/20180929-DSC04812.jpg'
+import forsythe2 from '../public/Forsythe/20180929-DSC04813.jpg'
+import forsythe3 from '../public/Forsythe/20180929-DSC04888.jpg'
+import forsythe4 from '../public/Forsythe/20180929-DSC04889.jpg'
 import styled from 'styled-components'
 
 const Wrapper = styled.div`
